@@ -1,3 +1,4 @@
+print('sasa')
 while True:
     print("Enter 'x' to exit.")
     num1 = input("Enter first number: ")
