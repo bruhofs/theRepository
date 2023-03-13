@@ -1,4 +1,5 @@
 import random
+import datetime
 print('''       Funções
 Escolha sua função:
     - Inverter string (1)
@@ -14,6 +15,10 @@ if func == 1:
     str = input('Digite sua string --> ')
     inv = str [::-1]
     print('String invertida:', inv)
+elif func == 3:
+    dat = datetime.date(int(input('Digite o ano --> ')), int(input('Digite o mês --> ')), int(input('Digite o dia --> ')))
+    dias = {0: 'Segunda-feira', 1:'Terça-feira', 2:'Quarta-feira', 3:'Quinta-feira', 4:'Sexta-feira', 5:'Sábado', 6: 'Domingo'}
+    print('O dia da semana é %s!!!!!!!' % dias[dat.weekday()])
 elif func == 4:
     pal = input("Digite sua palavra --> ")
     if pal == pal [::-1]:
