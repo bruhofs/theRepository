@@ -1,4 +1,5 @@
 import random
+import math
 import datetime
 print('''       Funções
 Escolha sua função:
@@ -50,3 +51,13 @@ elif func == 5:
 elif func == 6:
     num = random.randint(int(input('Digite o ínico do intervalo --> ')),int(input('Digite o fim do intervalo --> ')))
     print('O número sorteado foi %d !!!' % num)
+elif func == 7:
+    str = input('Digite a string --> ')
+    poc = input('Digite a palavra ou caracter --> ')
+    if poc in str:
+        print('Esta palavra/caracter está na string.')
+    else:
+        print('Esta palavra/caracter não existe na string.')
+elif func == 8:
+    prc = int(input('Digite o número de casas decimais --> '))
+    print(f"Pi = {math.pi:.{prc}f}")
