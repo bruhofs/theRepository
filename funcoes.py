@@ -1,3 +1,4 @@
+import random
 print('''       Funções
 Escolha sua função:
     - Inverter string (1)
@@ -27,3 +28,6 @@ elif func == 5:
         print('Seu númeor é ímpar :( :(')
     else: 
         print('Seu número não existe, ele é falso')
+elif func == 6:
+    num = random.randint(int(input('Digite o ínico do intervalo --> ')),int(input('Digite o fim do intervalo --> ')))
+    print('O número sorteado foi %d !!!' % num)

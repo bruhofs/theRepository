@@ -1,0 +1,54 @@
+[33mcommit bf0cf77716329e0b4a016dd6e0f1dfbe44381fe7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: bruhofs <brunohofstatter@ienh.com.br>
+Date:   Mon Mar 13 19:49:19 2023 -0300
+
+    par ou ímpar
+
+[33mcommit 55bdada838b9d6ecc49fe4cbe79eda9cf0f5c3ac[m
+Author: EnzoLN <enzolneumann@gmail.com>
+Date:   Mon Mar 13 19:45:55 2023 -0300
+
+    detectar palíndromos
+
+[33mcommit 5b147f3f49281b2223dcded31aec45038822b7b6[m
+Author: bruhofs <brunohofstatter@ienh.com.br>
+Date:   Mon Mar 13 19:34:03 2023 -0300
+
+    teste
+
+[33mcommit 7c5e114d13bd002b7eb460dcddc013b2660408ef[m
+Merge: 3f5185a de7870a
+Author: bruhofs <brunohofstatter@ienh.com.br>
+Date:   Mon Mar 13 19:26:57 2023 -0300
+
+    Merge branch 'main' of https://github.com/bruhofs/theRepository
+
+[33mcommit 3f5185abfbc8fd69cb057e8e089b7d1b20727206[m
+Author: bruhofs <brunohofstatter@ienh.com.br>
+Date:   Mon Mar 13 19:26:13 2023 -0300
+
+    teste
+
+[33mcommit de7870a668f285ade24d23bccd047102f34876c7[m
+Author: bruhofs <127157807+bruhofs@users.noreply.github.com>
+Date:   Mon Mar 13 19:23:30 2023 -0300
+
+    Add files via upload
+
+[33mcommit 4b228ac945beb4abf38efd1817b4418e8a37e118[m
+Author: EnzoLN <127157765+EnzoLN@users.noreply.github.com>
+Date:   Mon Mar 13 19:17:29 2023 -0300
+
+    Delete calculator.py
+
+[33mcommit f71741f7592f2b1ad3afe260d00f37c66a1a2bf1[m
+Author: bruhofs <brunohofstatter@ienh.com.br>
+Date:   Mon Mar 6 21:22:42 2023 -0300
+
+    sasa
+
+[33mcommit 680bf9119e8abb2e0e48c989b5bbb285c6973d22[m
+Author: BRUNO DA SILVA HOFSTÄTTER <0102196@acad.redes-ienh.com.br>
+Date:   Mon Mar 6 20:27:50 2023 -0300
+
+    calculadora
