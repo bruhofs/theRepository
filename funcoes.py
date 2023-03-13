@@ -13,8 +13,16 @@ if func == 1:
     
     print('a')
 elif func == 4:
-    pal = input("Digite sua palavra: ")
+    pal = input("Digite sua palavra --> ")
     if pal == pal [::-1]:
         print('Sua palavra é um palíndromo!!')
     else: 
         print('Sua palavra não é um palíndromo :c')
+elif func == 5:
+    num = int(input('Digite seu número --> '))
+    if num % 2 == 0:
+        print('Seu número é par!')
+    elif num % 2 == 1:
+        print('Seu númeor é ímpar :( :(')
+    else: 
+        print('Seu número não existe, ele é falso')
