@@ -10,8 +10,9 @@ Escolha sua função:
     - Imprimir o número Pi com x casas decimais (8)''')
 func = int(input(''))
 if func == 1:
-    
-    print('a')
+    str = input('Digite sua string --> ')
+    inv = str [::-1]
+    print('String invertida:', inv)
 elif func == 4:
     pal = input("Digite sua palavra --> ")
     if pal == pal [::-1]:
